@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Profissional de TI em constante evolução, apaixonado por solucionar desafios através da tecnologia com foco em Desenvolvimento Web. 💻 <br><br>Ao longo da minha trajetória, desenvolvi habilidades em  desenvolvimento de interfaces, criação de API e  banco de dados, o que me proporciona uma visão completa e integrada do universo de TI. Acredito no poder da tecnologia para transformar negócios e facilitar a vida das pessoas, e busco constantemente aprimorar meus conhecimentos para fazer a diferença em projetos desafiadores.<br><br>Vamos conectar e construir o futuro da tecnologia juntos!</p>
+<p align="left">Profissional de TI em constante evolução, apaixonado por solucionar desafios através da tecnologia com foco em Desenvolvimento Web.  <br><br>Ao longo da minha trajetória, desenvolvi habilidades em  desenvolvimento de interfaces, criação de API e  banco de dados, o que me proporciona uma visão completa e integrada do universo de TI. Acredito no poder da tecnologia para transformar negócios e facilitar a vida das pessoas, e busco constantemente aprimorar meus conhecimentos para fazer a diferença em projetos desafiadores.<br><br>Vamos conectar e construir o futuro da tecnologia juntos!</p>
 
 ###
 
